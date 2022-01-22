@@ -1,8 +1,5 @@
 const countdown = () => {
-  // Find a way to get this date to be converted to UTC-05:00
-  // OR
-  // Just add or minus the difference in the time below
-  const countDate = new Date("January 21, 2022 00:00:00").getTime();
+  const countDate = new Date("February 25, 2022 00:00:00").getTime();
   const now = new Date().getTime();
   const gap = countDate - now;
 
