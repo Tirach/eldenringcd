@@ -21,6 +21,11 @@ const countdown = () => {
   document.querySelector(".hour").innerText = textHour;
   document.querySelector(".minute").innerText = textMinute;
   document.querySelector(".second").innerText = textSecond;
+
+  if (now >= countDate) {
+    document.querySelector(".dynaH2").innerText =
+      "Elden Ring has been out for:";
+  }
 };
 
 setInterval(countdown, 1000);
