@@ -8,6 +8,8 @@ Please note that the script for counting down is not original, it was sourced fr
 
 > And the specific video [here](https://www.youtube.com/watch?v=Rib69h2DOxg)
 
-If you stumble upon this and want to contribute, I am looking for some high resoultion images to use for the background(s) and to improve the loading time of the timer itself
+<del> If you stumble upon this and want to contribute, I am looking for some high resoultion images to use for the background(s) and to improve the loading time of the timer itself </del>
+
+  *Project is fin, no more contributions needed*
 
 Tirach
